@@ -9,23 +9,23 @@ body{background-color: #0092ff;}
 	 margin-right:5%;
 	 color: white;
 	}
-h1 { text-align:center;
+h1 {
      font-family:Helvetica Neue;
      color: white; }
 
-h2 { margin-left:20%;
-     margin-right:10%; 
+h2 { margin-left:40%;
+     margin-right:8%; 
      font-family:Helvetica Neue;
      color: white; }
-h3 { margin-left:30%;
+h3 { margin-left:50%;
+     margin-right:8%;
+     font-family:Helvetica Neue;
+     color: white; }
+h4 { margin-left:50%;
+     margin-right:8%;
+     font-family:Helvetica Neue;
+     color: white; }
+p {  margin-left:55%;
      margin-right:10%;
-     font-family:Helvetica Neue;
-     color: white; }
-h4 { margin-left:30%;
-     margin-right:10%;
-     font-family:Helvetica Neue;
-     color: white; }
-p {  margin-left:35%;
-     margin-right:15%;
      font-family:Helvetica Neue;
      color: white; }
