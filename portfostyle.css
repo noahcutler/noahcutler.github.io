@@ -1,7 +1,8 @@
 body{background-color: #0092ff;}
 #icon {
-        height: 150px;
+        height: 100px;
         margin-right:75%;
+	margin-left:10%;
         }
 h1 { text-align:center;
      font-family:Helvetica Neue;
