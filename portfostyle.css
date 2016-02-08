@@ -43,3 +43,9 @@ p {  margin-left:33%;
      margin-right:10%;
      font-family:Helvetica Neue;
      color: white; }
+caption {
+	caption-side:bottom;
+     	font-size:20pt;
+     	font-family:Helvetica Neue;
+     	color:#8B5A2B ;
+	}
