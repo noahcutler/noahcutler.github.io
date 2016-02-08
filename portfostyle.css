@@ -1,7 +1,17 @@
 body{background-color: #0092ff;}
-h1 { font-family:Helvetica Neue;
+img.bubble{
+	 text- align:center;
+	  width: 150px;
+	  height: 150px;
+	  border-radius: 74px;
+	  -webkit-border-radius: 150px;
+	  -moz-border-radius: 150px;
+	  background: facebubble.png;
+	  }
+h1 { font-family:Helvetica;
      color: white;
      font-weight:bold; 
+     font-size:40pt;
      margin-left:40%;}
 
 h2 { margin-left:22%;
