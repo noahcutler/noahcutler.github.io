@@ -4,6 +4,11 @@ body{background-color: #0092ff;}
         margin-right:75%;
 	margin-left:10%;
         }
+#cvhead {font-family: "Helvetica";
+	 font-size:20pt;
+	 margin-right:5%;
+	 color: white;
+	}
 h1 { text-align:center;
      font-family:Helvetica Neue;
      color: white; }
