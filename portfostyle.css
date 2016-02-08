@@ -1,5 +1,8 @@
 body{background-color: #0092ff;}
-
+#icon {
+        height: 150px;
+        max-width:150px;
+        }
 h1 { text-align:center;
      font-family:Helvetica Neue;
      color: white; }
@@ -20,7 +23,3 @@ p {  margin-left:35%;
      margin-right:15%;
      font-family:Helvetica Neue;
      color: white; }
-#icon { 
-        height: 150px; 
-        max-width:150px;
-	}
