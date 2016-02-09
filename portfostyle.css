@@ -59,5 +59,6 @@ caption {
      	font-family:Helvetica Neue;
      	color:#8B5A2B ;
 	}
-p.cntr {margin-left:25%;
+p.cntr {text-align:center;
+       margin-left:15%;
        margin-right 25%;}
