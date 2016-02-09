@@ -23,6 +23,7 @@ img.bubblec{
           border-radius: 200px;
           -webkit-border-radius: 200px;
           -moz-border-radius: 200px;
+	  margin-left:350px
           }
 h1 { font-family:Andale Mono;
      color: white;
@@ -58,4 +59,4 @@ caption {
      	font-family:Helvetica Neue;
      	color:#8B5A2B ;
 	}
-p.center {text-align:center;}
+p.cntr {text-align:center;}
