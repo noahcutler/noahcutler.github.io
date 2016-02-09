@@ -16,6 +16,14 @@ img.bubble{
 	  -moz-border-radius: 200px;
 	  margin-left: 150px;
 	  }
+img.bubblec{
+          text-align:center;
+          width:400px;
+          height: 400px;
+          border-radius: 200px;
+          -webkit-border-radius: 200px;
+          -moz-border-radius: 200px;
+          }
 h1 { font-family:Andale Mono;
      color: white;
      font-weight:100;
@@ -50,3 +58,4 @@ caption {
      	font-family:Helvetica Neue;
      	color:#8B5A2B ;
 	}
+p.center {text-align:center;}
