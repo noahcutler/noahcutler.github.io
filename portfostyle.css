@@ -29,19 +29,19 @@ img.bubblec{
 span.label {
   background: white;
   color: #8B5A2B;
-  cursor: pointer;
+  cursor:pointer;
   display: table;
+  height: 150px;
   left: 0;
   position: absolute;
   top: 0;
-  border-radius: 200px;
-  -webkit-border-radius: 200px;
-  -moz-border-radius: 200px;
+  width: 150px;
   opacity: 0;
   -webkit-transition: opacity 500ms;
   -moz-transition: opacity 500ms;
   -o-transition: opacity 500ms;
   transition: opacity 500ms;
+
   }
 
 span.label span {
