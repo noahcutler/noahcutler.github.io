@@ -25,6 +25,32 @@ img.bubblec{
           -moz-border-radius: 200px;
 	  margin-left:37%;
           }
+
+span.label {
+  background: white;
+  color: #8B5A2B;
+  cursor: pointer;
+  display: table;
+  left: 0;
+  position: absolute;
+  top: 0;
+  border-radius: 200px;
+  -webkit-border-radius: 200px;
+  -moz-border-radius: 200px;
+  opacity: 0;
+  -webkit-transition: opacity 500ms;
+  -moz-transition: opacity 500ms;
+  -o-transition: opacity 500ms;
+  transition: opacity 500ms;
+  }
+
+span.label span {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  }
+img:hover span.label{ opacity: 1; }
+
 h1 { font-family:Andale Mono;
      color: white;
      font-weight:100;
@@ -32,6 +58,7 @@ h1 { font-family:Andale Mono;
      font-size:56pt;
      text-align:center;
      }
+
 
 h2 { margin-left:22%;
      font-size:20pt;
@@ -53,12 +80,6 @@ p {  margin-left:33%;
      margin-right:10%;
      font-family:Helvetica Neue;
      color: white; }
-caption {
-	caption-side:bottom;
-     	font-size:20pt;
-     	font-family:Helvetica Neue;
-     	color:#8B5A2B ;
-	}
 p.cntr {text-align:center;
        margin-left:15%;
        margin-right 25%;}
